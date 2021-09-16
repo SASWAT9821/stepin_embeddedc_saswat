@@ -70,4 +70,7 @@
 # to detect the person is seated or not the button sensor will come into the picture
 # after the button sensor will detect that person is seated on the seat then temperature sensor will sense the temperature 
 # led actuator will show the driver is seated
+## BADGES
+| Code inspector |Codacy |
+|--- | --- |
 
