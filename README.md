@@ -4,11 +4,53 @@ MODULE IS IMPLEMENTED IN THIS PROJECT.
 # OBJECTIVES
 ## TO PROVIDE COMFORTABLE REQUIRED TEMPERATURE BY WARMING THE SEAT
 # HARDWARE REQUIREMENTS
-## 
-# the entire project is based on three activities 
-# three actvities are interrelated 
+## ATMEGA 328 MICROCONTROLLER
+## BUTTON SENSORS
+## TEMPERATURE SENSORS
+## HEATER
+##  LED 
+## LCD 16*2
+# Product Features
+## FMVSS 302 flammability compliant
+
+## 9” x 19” heating elements included
+
+## Three element trimming locations
+
+## Insulation protects wires from damage
+
+## Latching wire harness connectors
+
+## High-temp rated element adhesive
+
 ## FLOW CHART
 ![flowchart](https://user-images.githubusercontent.com/89764663/133644702-ec93c991-544b-42fb-aa90-78d568901f06.jpg)
+# SWOT Analysis- Strengths, Weakness, and Oppurtunities
+# Strengths
+## 1.Low cost
+
+## 2.Modular Based programs
+
+## 3.Easy to Modify the Temperature Values
+
+## 4.User Friendly
+
+# Weakness
+## 1.It"s only applicable for the countries which having lowest temperature
+# Oppurtunities
+## 1.It can be implemented by replacing hereby air conditioners so that it will help in all countries
+
+# 4W's and 1'H
+## 4W's
+## 1.What: Passenger seat and heat monitoring system
+
+## 2.Where: Used in Automotive industry
+
+## 3.When: At low Temperature
+
+## 4.Why: For being healthy
+# 1'H
+## 1.Operates by modifying the temperature
 #REQUIREMENTS
 ## HIGH LEVEL REQUIREMENTS
 |ID |DESCRIPTION
