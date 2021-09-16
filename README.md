@@ -73,4 +73,4 @@
 ## BADGES
 | Code inspector |Codacy |
 |--- | --- |
-
+| ![](https://www.code-inspector.com/project/28742/score/svg) ![](https://www.code-inspector.com/project/28742/status/svg) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/a74383b0e7864c04a764fe3c1287ddf6)](https://www.codacy.com/gh/SASWAT9821/stepin_embeddedc_saswat/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SASWAT9821/stepin_embeddedc_saswat&amp;utm_campaign=Badge_Grade) |
